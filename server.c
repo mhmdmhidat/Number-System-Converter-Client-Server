@@ -1,3 +1,6 @@
+/*
+    Written by: mhmd mhidat
+*/
 #include "header.h"   //include all headers which program needs
 void do_convert(int); 
 void split(char *);  //split message format
