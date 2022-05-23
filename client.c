@@ -1,3 +1,6 @@
+/*
+    Written by: mhmd mhidat
+*/
 #include "header.h"
 void split(char []);
 void capitlize (char s[]);
